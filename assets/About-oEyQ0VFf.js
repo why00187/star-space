@@ -1,0 +1,1 @@
+import{i as e,n as t,r as n,t as r}from"./index-hRDpeBrp.js";var i={},a={class:`about`};function o(r,i){return e(),n(`div`,a,[...i[0]||=[t(`h2`,null,`关于我`,-1),t(`p`,null,`计算机方向学生，喜欢前端、AI模型、单片机开发`,-1)]])}var s=r(i,[[`render`,o],[`__scopeId`,`data-v-1d9d4f37`]]);export{s as default};
