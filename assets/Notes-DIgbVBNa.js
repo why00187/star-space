@@ -1,0 +1,1 @@
+import{a as e,c as t,n,r}from"./index-BCcoP2Fx.js";var i={},a={class:`notes`};function o(n,i){return t(),e(`div`,a,[...i[0]||=[r(`h2`,null,`随笔&实践日志`,-1),r(`div`,{class:`note-item`},[r(`h4`,null,`项目开发培训日志`),r(`p`,null,`学习Bug排查、前后端定位、Cloudflare Pages网站部署、PRD文档编写规范`)],-1)]])}var s=n(i,[[`render`,o],[`__scopeId`,`data-v-41052bfc`]]);export{s as default};

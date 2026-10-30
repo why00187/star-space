@@ -1,1 +1,0 @@
-import{i as e,n as t,r as n,t as r}from"./index-hRDpeBrp.js";var i={},a={class:`notes`};function o(r,i){return e(),n(`div`,a,[...i[0]||=[t(`h2`,null,`随笔&实践日志`,-1),t(`div`,{class:`note-item`},[t(`h4`,null,`项目开发培训日志`),t(`p`,null,`学习Bug排查、前后端定位、Cloudflare Pages网站部署、PRD文档编写规范`)],-1)]])}var s=r(i,[[`render`,o],[`__scopeId`,`data-v-37264b48`]]);export{s as default};

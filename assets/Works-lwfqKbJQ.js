@@ -1,0 +1,1 @@
+import{a as e,c as t,n,r}from"./index-BCcoP2Fx.js";var i={},a={class:`works`};function o(n,i){return t(),e(`div`,a,[...i[0]||=[r(`h2`,null,`我的作品集`,-1),r(`div`,{class:`card-list`},[r(`div`,{class:`card`},`AI本地对话项目`),r(`div`,{class:`card`},`51单片机实验项目`)],-1)]])}var s=n(i,[[`render`,o],[`__scopeId`,`data-v-01b04528`]]);export{s as default};

@@ -1,0 +1,1 @@
+import{a as e,c as t,n,r}from"./index-BCcoP2Fx.js";var i={},a={class:`home`};function o(n,i){return t(),e(`div`,a,[...i[0]||=[r(`h1`,null,`星空空间站`,-1),r(`p`,null,`欢迎来到我的个人主页`,-1)]])}var s=n(i,[[`render`,o],[`__scopeId`,`data-v-49bce3df`]]);export{s as default};

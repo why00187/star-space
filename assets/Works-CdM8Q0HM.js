@@ -1,1 +1,0 @@
-import{i as e,n as t,r as n,t as r}from"./index-hRDpeBrp.js";var i={},a={class:`works`};function o(r,i){return e(),n(`div`,a,[...i[0]||=[t(`h2`,null,`我的作品集`,-1),t(`div`,{class:`card-list`},[t(`div`,{class:`card`},`AI本地对话项目`),t(`div`,{class:`card`},`51单片机实验项目`)],-1)]])}var s=r(i,[[`render`,o],[`__scopeId`,`data-v-464dcb2f`]]);export{s as default};

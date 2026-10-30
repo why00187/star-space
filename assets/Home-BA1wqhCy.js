@@ -1,1 +1,0 @@
-import{i as e,n as t,r as n,t as r}from"./index-hRDpeBrp.js";var i={},a={class:`home`};function o(r,i){return e(),n(`div`,a,[...i[0]||=[t(`h1`,null,`星空空间站`,-1),t(`p`,null,`欢迎来到我的个人主页`,-1)]])}var s=r(i,[[`render`,o],[`__scopeId`,`data-v-ace62f5b`]]);export{s as default};
