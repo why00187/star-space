@@ -1,0 +1,15 @@
+:root {
+  --star-bg: #050816;
+  --star-color: #eef4ff;
+  --accent: #8b7cf2;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: system-ui;
+  color: #fff;
+  background: var(--star-bg);
+}
